@@ -2,7 +2,11 @@
 
 Just a game to test your reaction speed
 
-## Project Setup -> CD to project and run the local server
+## Project Setup -> CD to project and run :
+
+```sh
+npm install
+```
 
 ```sh
 npm run dev
