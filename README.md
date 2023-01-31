@@ -6,10 +6,12 @@ https://user-images.githubusercontent.com/70352684/215695526-59d8e90f-4ca1-4777-
 
 ## Project Setup -> CD to project and run :
 
+Install required packages
 ```sh
-npm install
+$ npm install
 ```
 
+Running local server
 ```sh
-npm run dev
+$ npm run dev
 ```
